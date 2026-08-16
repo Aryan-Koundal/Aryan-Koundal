@@ -37,7 +37,7 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Koundal&show_icons=true&hide_border=true&rank_icon=github)
 
 ### GitHub Streak
 
@@ -45,11 +45,11 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Koundal&layout=compact&hide_border=true)
 
 ### Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Koundal&hide_border=true)
 
 ---
 
