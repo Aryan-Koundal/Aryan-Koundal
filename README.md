@@ -41,7 +41,7 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ### GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Koundal)
 
 ### Most Used Languages
 
