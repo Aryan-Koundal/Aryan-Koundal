@@ -65,6 +65,6 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ## Contact
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+- **GitHub:** https://github.com/Aryan-Koundal
 - **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
-- **Email:** your.email@example.com
+- **Email:** aryankoundal@gmail.com
