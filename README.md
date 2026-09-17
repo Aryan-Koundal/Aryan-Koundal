@@ -33,8 +33,6 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ## GitHub Statistics
 
-> Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Koundal&show_icons=true&hide_border=true&rank_icon=github)
