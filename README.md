@@ -31,23 +31,33 @@ I enjoy learning new technologies, solving problems, and continuously improving 
 
 ---
 
-## GitHub Statistics
 
-### GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-Koundal&show_icons=true&hide_border=true&rank_icon=github)
+<div align="center">
 
-### GitHub Streak
+<img src="https://github-readme-stats.vercel.app/api?username=Aryan-Koundal&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" height="170" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aryan-Koundal)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Koundal&layout=compact&hide_border=true&theme=tokyonight" height="170" />
 
-### Most Used Languages
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Koundal&layout=compact&hide_border=true)
+## 🔥 GitHub Streak
 
-### Contribution Graph
+<div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Koundal&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Aryan-Koundal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Koundal&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
 
 ---
 
